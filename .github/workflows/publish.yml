@@ -1,0 +1,45 @@
+# Lives in the public repo FinPlay-www/finplay-teleprompter-releases as .github/workflows/publish.yml.
+# The source repo's Release workflow copies it there with every release push — edit it HERE, not there.
+# Turns the pushed latest.json + finplay-teleprompter.apk into a GitHub Release and prunes old ones.
+name: Publish release
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create the GitHub release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -eu
+          tag="$(jq -r .tag latest.json)"
+          name="$(jq -r .versionName latest.json)"
+          notes="$(jq -r .changelogSk latest.json)"
+          if gh release view "$tag" >/dev/null 2>&1; then
+            echo "Release $tag already exists — nothing to do."
+            exit 0
+          fi
+          gh release create "$tag" finplay-teleprompter.apk latest.json \
+            --latest --title "FinPlay Teleprompter $name" --notes "$notes"
+          echo "Created $tag"
+
+      - name: Keep only the newest 10 releases
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -eu
+          gh api "repos/$GITHUB_REPOSITORY/releases?per_page=100" --jq '.[10:][].tag_name' |
+            while read -r old; do
+              echo "Deleting $old"
+              gh release delete "$old" --cleanup-tag -y
+            done
