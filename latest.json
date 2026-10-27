@@ -1,0 +1,10 @@
+{
+    "versionCode": 431908,
+    "versionName": "1.1.20261027",
+    "apkUrl": "https://github.com/FinPlay-www/finplay-teleprompter-releases/releases/download/v1.1.20261027-431908/finplay-teleprompter.apk",
+    "changelogSk": "\u00daprava: v okne sp\u00e4tnej v\u00e4zby je nov\u00fd \u00favodn\u00fd text\n\u00daprava: nov\u00e1 reklama \u2014 pod logom FinPlay sa pri ka\u017edom spusten\u00ed striedaj\u00fa tri vety, tla\u010didlo \u201eChcem vedie\u0165 viac\u201c otvor\u00ed www.finplay.sk",
+    "changelogCs": "\u00daprava: v okn\u011b zp\u011btn\u00e9 vazby je nov\u00fd \u00favodn\u00ed text\n\u00daprava: nov\u00e1 reklama \u2014 pod logem FinPlay se p\u0159i ka\u017ed\u00e9m spu\u0161t\u011bn\u00ed st\u0159\u00eddaj\u00ed t\u0159i v\u011bty, tla\u010d\u00edtko \u201eChci v\u011bd\u011bt v\u00edc\u201c otev\u0159e www.finplay.sk",
+    "changelogHu": "M\u00f3dos\u00edt\u00e1s: a visszajelz\u00e9si ablakban \u00faj bevezet\u0151 sz\u00f6veg van\nM\u00f3dos\u00edt\u00e1s: \u00faj rekl\u00e1m \u2014 a FinPlay log\u00f3 alatt minden ind\u00edt\u00e1skor h\u00e1rom mondat v\u00e1ltakozik, a \u201eT\u00f6bbet szeretn\u00e9k tudni\u201d gomb megnyitja a www.finplay.sk oldalt",
+    "minSupportedVersionCode": 1,
+    "tag": "v1.1.20261027-431908"
+}
