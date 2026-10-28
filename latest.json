@@ -1,0 +1,10 @@
+{
+    "versionCode": 432647,
+    "versionName": "1.1.20261028",
+    "apkUrl": "https://github.com/FinPlay-www/finplay-teleprompter-releases/releases/download/v1.1.20261028-432647/finplay-teleprompter.apk",
+    "changelogSk": "Oprava: ke\u010f telef\u00f3n (napr. Xiaomi s HyperOS) ukon\u010d\u00ed aplik\u00e1ciu po\u010das \u010d\u00edtania, pri \u010fal\u0161om spusten\u00ed pon\u00fakne posla\u0165 spr\u00e1vu o chybe aj s d\u00f4vodom",
+    "changelogCs": "Oprava: kdy\u017e telefon (nap\u0159. Xiaomi s HyperOS) ukon\u010d\u00ed aplikaci b\u011bhem \u010dten\u00ed, p\u0159i dal\u0161\u00edm spu\u0161t\u011bn\u00ed nab\u00eddne poslat zpr\u00e1vu o chyb\u011b i s d\u016fvodem",
+    "changelogHu": "Jav\u00edt\u00e1s: ha a telefon (pl. HyperOS-es Xiaomi) olvas\u00e1s k\u00f6zben bez\u00e1rja az alkalmaz\u00e1st, a k\u00f6vetkez\u0151 ind\u00edt\u00e1skor felaj\u00e1nlja a hibajelent\u00e9s elk\u00fcld\u00e9s\u00e9t az okkal egy\u00fctt",
+    "minSupportedVersionCode": 1,
+    "tag": "v1.1.20261028-432647"
+}
