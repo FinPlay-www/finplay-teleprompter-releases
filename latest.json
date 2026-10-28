@@ -1,0 +1,10 @@
+{
+    "versionCode": 432397,
+    "versionName": "1.1.20261028",
+    "apkUrl": "https://github.com/FinPlay-www/finplay-teleprompter-releases/releases/download/v1.1.20261028-432397/finplay-teleprompter.apk",
+    "changelogSk": "\u00daprava: dia\u013ekov\u00e9 ovl\u00e1danie ide po krokoch \u2013 najprv vyberiete, \u010d\u00edm bude toto zariadenie, potom s \u010d\u00edm ho sp\u00e1rujete, a\u017e potom sa uk\u00e1\u017ee k\u00f3d a QR\n\u00daprava: nov\u00e1 ikona teleprompteru (obrazovka s textom namiesto kamery)",
+    "changelogCs": "\u00daprava: d\u00e1lkov\u00e9 ovl\u00e1d\u00e1n\u00ed jde po kroc\u00edch \u2013 nejprve vyberete, \u010d\u00edm bude toto za\u0159\u00edzen\u00ed, potom s \u010d\u00edm ho sp\u00e1rujete, a\u017e potom se uk\u00e1\u017ee k\u00f3d a QR\n\u00daprava: nov\u00e1 ikona teleprompteru (obrazovka s textem m\u00edsto kamery)",
+    "changelogHu": "M\u00f3dos\u00edt\u00e1s: a t\u00e1vir\u00e1ny\u00edt\u00e1s l\u00e9p\u00e9sr\u0151l l\u00e9p\u00e9sre halad \u2013 el\u0151sz\u00f6r kiv\u00e1lasztja, mi lesz ez az eszk\u00f6z, azt\u00e1n hogy mivel p\u00e1ros\u00edtja, \u00e9s csak ezut\u00e1n jelenik meg a k\u00f3d \u00e9s a QR\nM\u00f3dos\u00edt\u00e1s: \u00faj teleprompter ikon (sz\u00f6veges k\u00e9perny\u0151 a kamera helyett)",
+    "minSupportedVersionCode": 1,
+    "tag": "v1.1.20261028-432397"
+}
