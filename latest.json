@@ -1,0 +1,10 @@
+{
+    "versionCode": 432418,
+    "versionName": "1.1.20261028",
+    "apkUrl": "https://github.com/FinPlay-www/finplay-teleprompter-releases/releases/download/v1.1.20261028-432418/finplay-teleprompter.apk",
+    "changelogSk": "\u00daprava: scen\u00e1re v zozname s\u00fa zbalen\u00e9 do jedn\u00e9ho riadka \u2013 n\u00e1zov a \u25b6 na spustenie; \u0165uknut\u00edm na n\u00e1zov sa karta rozbal\u00ed a znova zbal\u00ed\n\u00daprava: tla\u010didlo \u201eChcem vedie\u0165 viac\u201c v reklame zablik\u00e1 prv\u00fdkr\u00e1t po 4 sekund\u00e1ch, potom ka\u017ed\u00fdch 7 sek\u00fand",
+    "changelogCs": "\u00daprava: sc\u00e9n\u00e1\u0159e v seznamu jsou sbalen\u00e9 do jednoho \u0159\u00e1dku \u2013 n\u00e1zev a \u25b6 ke spu\u0161t\u011bn\u00ed; klepnut\u00edm na n\u00e1zev se karta rozbal\u00ed a znovu sbal\u00ed\n\u00daprava: tla\u010d\u00edtko \u201eChci v\u011bd\u011bt v\u00edc\u201c v reklam\u011b blikne poprv\u00e9 po 4 sekund\u00e1ch, potom ka\u017ed\u00fdch 7 sekund",
+    "changelogHu": "M\u00f3dos\u00edt\u00e1s: a list\u00e1ban a forgat\u00f3k\u00f6nyvek egy sorba vannak \u00f6sszecsukva \u2013 c\u00edm \u00e9s \u25b6 az ind\u00edt\u00e1shoz; a c\u00edmre koppintva a k\u00e1rtya kiny\u00edlik, majd \u00fajra \u00f6sszecsuk\u00f3dik\nM\u00f3dos\u00edt\u00e1s: a rekl\u00e1mban a \u201eT\u00f6bbet szeretn\u00e9k tudni\u201d gomb el\u0151sz\u00f6r 4 m\u00e1sodperc ut\u00e1n villan fel, ut\u00e1na 7 m\u00e1sodpercenk\u00e9nt",
+    "minSupportedVersionCode": 1,
+    "tag": "v1.1.20261028-432418"
+}
