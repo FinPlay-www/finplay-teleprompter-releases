@@ -1,0 +1,10 @@
+{
+    "versionCode": 432017,
+    "versionName": "1.1.20261028",
+    "apkUrl": "https://github.com/FinPlay-www/finplay-teleprompter-releases/releases/download/v1.1.20261028-432017/finplay-teleprompter.apk",
+    "changelogSk": "Oprava: hl\u00e1senie chyby funguje aj na star\u0161\u00edch telef\u00f3noch (Android 7)\nOprava: Bluetooth ovl\u00e1da\u010d funguje, aj ke\u010f telef\u00f3nu d\u00e1te len pribli\u017en\u00fa polohu\n\u00daprava: pri prvom spusten\u00ed sa veci ukazuj\u00fa po jednej \u2014 uv\u00edtanie, n\u00e1vod, a\u017e potom ot\u00e1zky na povolenia\nZv\u00fd\u0161enie stability: upratanie a kontrola celej aplik\u00e1cie",
+    "changelogCs": "Oprava: hl\u00e1\u0161en\u00ed chyby funguje i na star\u0161\u00edch telefonech (Android 7)\nOprava: Bluetooth ovlada\u010d funguje, i kdy\u017e telefonu d\u00e1te jen p\u0159ibli\u017enou polohu\n\u00daprava: p\u0159i prvn\u00edm spu\u0161t\u011bn\u00ed se v\u011bci ukazuj\u00ed po jedn\u00e9 \u2014 uv\u00edt\u00e1n\u00ed, n\u00e1vod, a\u017e potom dotazy na opr\u00e1vn\u011bn\u00ed\nZv\u00fd\u0161en\u00ed stability: \u00faklid a kontrola cel\u00e9 aplikace",
+    "changelogHu": "Jav\u00edt\u00e1s: a hibajelent\u00e9s r\u00e9gebbi telefonokon (Android 7) is m\u0171k\u00f6dik\nJav\u00edt\u00e1s: a Bluetooth-os t\u00e1vir\u00e1ny\u00edt\u00f3 akkor is m\u0171k\u00f6dik, ha a telefonnak csak hozz\u00e1vet\u0151leges helyet enged\u00e9lyez\nM\u00f3dos\u00edt\u00e1s: els\u0151 ind\u00edt\u00e1skor egyszerre csak egy dolog jelenik meg \u2014 \u00fcdv\u00f6zl\u00e9s, \u00fatmutat\u00f3, \u00e9s csak ut\u00e1na az enged\u00e9lyk\u00e9r\u00e9sek\nStabilit\u00e1sn\u00f6vel\u00e9s: az eg\u00e9sz alkalmaz\u00e1s \u00e1tn\u00e9z\u00e9se \u00e9s rendbet\u00e9tele",
+    "minSupportedVersionCode": 1,
+    "tag": "v1.1.20261028-432017"
+}
