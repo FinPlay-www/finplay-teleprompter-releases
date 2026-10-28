@@ -1,0 +1,10 @@
+{
+    "versionCode": 432375,
+    "versionName": "1.1.20261028",
+    "apkUrl": "https://github.com/FinPlay-www/finplay-teleprompter-releases/releases/download/v1.1.20261028-432375/finplay-teleprompter.apk",
+    "changelogSk": "\u00daprava: r\u00fdchlos\u0165 \u010d\u00edtania a\u017e do 250 slov za min\u00fatu (doteraz 210)\nOprava: n\u00e1zov obrazovky \u201eDia\u013ekov\u00e9 ovl\u00e1danie\u201c a \u201eOvl\u00e1da\u010d\u201c u\u017e neprekr\u00fdva logo",
+    "changelogCs": "\u00daprava: rychlost \u010dten\u00ed a\u017e do 250 slov za minutu (dosud 210)\nOprava: n\u00e1zev obrazovky \u201eD\u00e1lkov\u00e9 ovl\u00e1d\u00e1n\u00ed\u201c a \u201eOvlada\u010d\u201c u\u017e nep\u0159ekr\u00fdv\u00e1 logo",
+    "changelogHu": "M\u00f3dos\u00edt\u00e1s: olvas\u00e1si sebess\u00e9g ak\u00e1r percenk\u00e9nt 250 sz\u00f3ig (eddig 210)\nJav\u00edt\u00e1s: a \u201eT\u00e1vir\u00e1ny\u00edt\u00e1s\u201d \u00e9s a \u201eT\u00e1vir\u00e1ny\u00edt\u00f3\u201d k\u00e9perny\u0151 neve m\u00e1r nem takarja el a log\u00f3t",
+    "minSupportedVersionCode": 1,
+    "tag": "v1.1.20261028-432375"
+}
