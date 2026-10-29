@@ -1,0 +1,10 @@
+{
+    "versionCode": 434044,
+    "versionName": "1.1.20261029",
+    "apkUrl": "https://github.com/FinPlay-www/finplay-teleprompter-releases/releases/download/v1.1.20261029-434044/finplay-teleprompter.apk",
+    "changelogSk": "Oprava: v inform\u00e1ci\u00e1ch o s\u00fakrom\u00ed je doplnen\u00e9, \u017ee slu\u017eby Google pri ovl\u00e1dan\u00ed cez Bluetooth posielaj\u00fa Googlu technick\u00e9 \u0161tatistiky o spojen\u00ed (model telef\u00f3nu, krajina) a kde sa to d\u00e1 vypn\u00fa\u0165",
+    "changelogCs": "Oprava: v informac\u00edch o soukrom\u00ed je dopln\u011bno, \u017ee slu\u017eby Google p\u0159i ovl\u00e1d\u00e1n\u00ed p\u0159es Bluetooth pos\u00edlaj\u00ed Googlu technick\u00e9 statistiky o spojen\u00ed (model telefonu, zem\u011b) a kde se to d\u00e1 vypnout",
+    "changelogHu": "Jav\u00edt\u00e1s: az adatv\u00e9delmi t\u00e1j\u00e9koztat\u00f3 kieg\u00e9sz\u00fclt azzal, hogy Bluetooth-os vez\u00e9rl\u00e9skor a Google-szolg\u00e1ltat\u00e1sok technikai statisztik\u00e1kat k\u00fcldenek a Google-nak a kapcsolatr\u00f3l (telefonmodell, orsz\u00e1g), \u00e9s hogy ez hol kapcsolhat\u00f3 ki",
+    "minSupportedVersionCode": 1,
+    "tag": "v1.1.20261029-434044"
+}
