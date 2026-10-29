@@ -1,0 +1,10 @@
+{
+    "versionCode": 434321,
+    "versionName": "1.1.20261029",
+    "apkUrl": "https://github.com/FinPlay-www/finplay-teleprompter-releases/releases/download/v1.1.20261029-434321/finplay-teleprompter.apk",
+    "changelogSk": "\u00daprava: \u00favodn\u00e1 obrazovka sa plynulo rozplynie do reklamy, bez tvrd\u00e9ho strihu\nNov\u00e1 funkcia: pl\u00e1vaj\u00face okno m\u00e1 tla\u010didlo X dole a roh na zmenu ve\u013ekosti, ktor\u00fd nikdy nezmizne\nOprava: najmen\u0161ie pl\u00e1vaj\u00face okno sa d\u00e1 op\u00e4\u0165 zv\u00e4\u010d\u0161i\u0165\nOprava: vo\u013eby v menu pl\u00e1vaj\u00faceho okna s\u00fa \u010ditate\u013en\u00e9\nNov\u00e1 funkcia: v reklame \u201eNechcete reklamu? Zistite, ako na to\u201c s predstaven\u00edm \u0161kolen\u00ed FinPlay",
+    "changelogCs": "\u00daprava: \u00favodn\u00ed obrazovka se plynule rozplyne do reklamy, bez tvrd\u00e9ho st\u0159ihu\nNov\u00e1 funkce: plovouc\u00ed okno m\u00e1 tla\u010d\u00edtko X dole a roh pro zm\u011bnu velikosti, kter\u00fd nikdy nezmiz\u00ed\nOprava: nejmen\u0161\u00ed plovouc\u00ed okno jde op\u011bt zv\u011bt\u0161it\nOprava: volby v menu plovouc\u00edho okna jsou \u010diteln\u00e9\nNov\u00e1 funkce: v reklam\u011b \u201eNechcete reklamu? Zjist\u011bte, jak na to\u201c s p\u0159edstaven\u00edm \u0161kolen\u00ed FinPlay",
+    "changelogHu": "M\u00f3dos\u00edt\u00e1s: a nyit\u00f3k\u00e9perny\u0151 sim\u00e1n \u00faszik \u00e1t a hirdet\u00e9sbe, \u00e9les v\u00e1g\u00e1s n\u00e9lk\u00fcl\n\u00daj funkci\u00f3: a lebeg\u0151 ablak alj\u00e1n X gomb van, a sark\u00e1ban pedig \u00e1tm\u00e9retez\u0151, amely sosem t\u0171nik el\nJav\u00edt\u00e1s: a legkisebb lebeg\u0151 ablak ism\u00e9t nagy\u00edthat\u00f3\nJav\u00edt\u00e1s: a lebeg\u0151 ablak men\u00fcj\u00e9nek opci\u00f3i olvashat\u00f3k\n\u00daj funkci\u00f3: a hirdet\u00e9sben \u201eNem k\u00e9r rekl\u00e1mot? N\u00e9zze meg, hogyan\u201d a FinPlay k\u00e9pz\u00e9sek bemutat\u00e1s\u00e1val",
+    "minSupportedVersionCode": 1,
+    "tag": "v1.1.20261029-434321"
+}
