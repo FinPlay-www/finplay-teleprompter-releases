@@ -1,0 +1,17 @@
+{
+    "versionCode": 436885,
+    "versionName": "1.1.20261031",
+    "apkUrl": "https://github.com/FinPlay-www/finplay-teleprompter-releases/releases/download/v1.1.20261031-436885/finplay-teleprompter.apk",
+    "changelogSk": "\u00daprava: jazyky s\u00fa zoraden\u00e9 abecedne, v ka\u017edom riadku s\u00fa tri vlajky\nOprava: vlajky vyzeraj\u00fa ako ofici\u00e1lne a nie s\u00fa zdeformovan\u00e9",
+    "changelogCs": "\u00daprava: jazyky jsou se\u0159azen\u00e9 abecedn\u011b, v ka\u017ed\u00e9m \u0159\u00e1dku jsou t\u0159i vlajky\nOprava: vlajky vypadaj\u00ed jako ofici\u00e1ln\u00ed a nejsou zdeformovan\u00e9",
+    "changelogHu": "M\u00f3dos\u00edt\u00e1s: a nyelvek \u00e1b\u00e9c\u00e9rendben vannak, minden sorban h\u00e1rom z\u00e1szl\u00f3\nJav\u00edt\u00e1s: a z\u00e1szl\u00f3k a hivatalosakhoz h\u0171ek, \u00e9s nincsenek eltorz\u00edtva",
+    "changelogPl": "Zmiana: j\u0119zyki s\u0105 u\u0142o\u017cone alfabetycznie, w ka\u017cdym rz\u0119dzie s\u0105 trzy flagi\nPoprawka: flagi wygl\u0105daj\u0105 jak oficjalne i nie s\u0105 zniekszta\u0142cone",
+    "changelogUk": "\u0417\u043c\u0456\u043d\u0430: \u043c\u043e\u0432\u0438 \u0432\u043f\u043e\u0440\u044f\u0434\u043a\u043e\u0432\u0430\u043d\u0456 \u0437\u0430 \u0430\u0431\u0435\u0442\u043a\u043e\u044e, \u0443 \u043a\u043e\u0436\u043d\u043e\u043c\u0443 \u0440\u044f\u0434\u043a\u0443 \u0442\u0440\u0438 \u043f\u0440\u0430\u043f\u043e\u0440\u0438\n\u0412\u0438\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043d\u044f: \u043f\u0440\u0430\u043f\u043e\u0440\u0438 \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u0430\u044e\u0442\u044c \u043e\u0444\u0456\u0446\u0456\u0439\u043d\u0438\u043c \u0456 \u043d\u0435 \u0441\u043f\u043e\u0442\u0432\u043e\u0440\u0435\u043d\u0456",
+    "changelogRue": "\u0417\u043c\u0456\u043d\u0430: \u044f\u0437\u044b\u043a\u044b \u0441\u0443\u0442\u044c \u0443\u043b\u043e\u0436\u0435\u043d\u044b \u043f\u043e \u0430\u0431\u0435\u0446\u0435\u0434\u0456, \u0432 \u043a\u0430\u0436\u0434\u0456\u043c \u0440\u044f\u0434\u0443 \u0441\u0443\u0442\u044c \u0442\u0440\u0438 \u0444\u0430\u043d\u044b\n\u041e\u043f\u0440\u0430\u0432\u0430: \u0444\u0430\u043d\u044b \u0432\u044b\u0433\u043b\u044f\u0434\u0430\u044e\u0442\u044c \u044f\u043a \u043e\u0444\u0456\u0446\u0456\u0430\u043b\u043d\u044b \u0456 \u043d\u0435 \u0441\u0443\u0442\u044c \u0434\u0435\u0444\u043e\u0440\u043c\u043e\u0432\u0430\u043d\u044b",
+    "changelogEn": "Change: languages are in alphabetical order, three flags in each row\nFix: flags look like the official ones and are no longer distorted",
+    "changelogDe": "\u00c4nderung: Die Sprachen sind alphabetisch sortiert, drei Flaggen pro Reihe\nKorrektur: Die Flaggen entsprechen den offiziellen und sind nicht mehr verzerrt",
+    "changelogFr": "Modification : les langues sont class\u00e9es par ordre alphab\u00e9tique, trois drapeaux par ligne\nCorrection : les drapeaux correspondent aux drapeaux officiels et ne sont plus d\u00e9form\u00e9s",
+    "changelogEs": "Cambio: los idiomas est\u00e1n en orden alfab\u00e9tico, tres banderas por fila\nCorrecci\u00f3n: las banderas son como las oficiales y ya no est\u00e1n deformadas",
+    "minSupportedVersionCode": 1,
+    "tag": "v1.1.20261031-436885"
+}
