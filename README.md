@@ -3,7 +3,7 @@
 Bezplatná čítačka textu pre natáčanie videí na telefóne. Text plynulo
 beží pod kamerou alebo na celej obrazovke, vy pozeráte tesne pod objektív.
 
-**Stiahnutia (nové inštalácie): <!--downloads-->0<!--/downloads-->** (počíta sa len prvé stiahnutie
+**Stiahnutia (nové inštalácie): <!--downloads-->64<!--/downloads-->** (počíta sa len prvé stiahnutie
 cez QR kód alebo odkaz nižšie, automatické aktualizácie nie; číslo sa obnovuje raz denne).
 
 **Beta verzia.** Aplikácia sa ešte ladí; ak niečo nefunguje, napíšte nám
