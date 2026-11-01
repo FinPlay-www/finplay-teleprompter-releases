@@ -1,0 +1,55 @@
+# Lives in the public repo FinPlay-www/finplay-teleprompter-releases as .github/workflows/publish.yml.
+# The source repo's Release workflow copies it there with every release push — edit it HERE, not there.
+# Turns the pushed latest.json + APKs into a GitHub Release and writes the download counter into README.md.
+# Old releases are kept: the counter sums finplay-teleprompter-install.apk (first installs, not updates)
+# over all of them. The daily run only refreshes the counter.
+name: Publish release
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '30 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create the GitHub release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -eu
+          tag="$(jq -r .tag latest.json)"
+          name="$(jq -r .versionName latest.json)"
+          notes="$(jq -r .changelogSk latest.json)"
+          if gh release view "$tag" >/dev/null 2>&1; then
+            echo "Release $tag already exists — nothing to do."
+            exit 0
+          fi
+          gh release create "$tag" finplay-teleprompter.apk finplay-teleprompter-install.apk latest.json \
+            --latest --title "FinPlay Teleprompter $name" --notes "$notes"
+          echo "Created $tag"
+
+      - name: Download counter in README.md
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -eu
+          total="$(gh api --paginate "repos/$GITHUB_REPOSITORY/releases?per_page=100" \
+            --jq '.[].assets[] | select(.name == "finplay-teleprompter-install.apk") | .download_count' |
+            awk '{ s += $1 } END { print s + 0 }')"
+          echo "First installs: $total"
+          sed -i -E "s#<!--downloads-->[0-9]*<!--/downloads-->#<!--downloads-->$total<!--/downloads-->#" README.md
+          if git diff --quiet README.md; then exit 0; fi
+          git config user.name "FinPlay CI"
+          git config user.email "finplay-ci@users.noreply.github.com"
+          git commit -q -m "Download counter: $total" README.md
+          git push -q origin HEAD:main
